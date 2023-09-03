@@ -96,7 +96,7 @@ endmodule
 ### RTL Diagram:
 ![Rtl](./1.png)
 ### Truthtable:
-![Table](./table.png)
+![Table](./table%20new.png)
 ### Output Waveform:
 ![Wave](./3.png)
 ### Result:
